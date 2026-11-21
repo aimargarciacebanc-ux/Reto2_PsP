@@ -1,0 +1,13 @@
+{
+  "name": "ejer2-api-helpdeskfx",
+  "version": "1.0.0",
+  "description": "API REST de incidencias y clientes para HelpDeskFX",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "picocolors": "^1.1.1"
+  }
+}
